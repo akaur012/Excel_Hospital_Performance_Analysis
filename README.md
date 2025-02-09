@@ -1,5 +1,10 @@
 # Hospital_Performance_Analysis  
 This project analyzes hospital performance by examining ownership distribution, readmission rates, safety scores, and overall ratings. Key insights reveal that non-profit hospitals dominate, acute care hospitals have the highest readmissions, and higher safety scores don’t always mean better ratings. Using Excel, I applied pivot tables, charts, and statistical analysis to uncover trends that can help optimize hospital partnerships and improve patient care strategies.  
+  
+Dataset Overview:  
+Name: Hospital General Information  
+Source: CMS Provider Data Catalog  
+Description: This dataset includes information such as hospital names, addresses, phone numbers, hospital types, and overall hospital ratings.  
 
 ![Screenshot 2025-02-08 182516](https://github.com/user-attachments/assets/eab1a7fc-b4dc-41b9-bfd4-24f74df26fa3)
   
